@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # brew_bean_app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# CS-ELECTIVE-2.2
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c

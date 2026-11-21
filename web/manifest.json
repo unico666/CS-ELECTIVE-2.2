@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "brew_bean_app",
     "short_name": "brew_bean_app",
+=======
+    "name": "shop_app",
+    "short_name": "shop_app",
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

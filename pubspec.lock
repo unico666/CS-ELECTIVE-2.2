@@ -97,6 +97,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.1.2"
+<<<<<<< HEAD
   cross_file:
     dependency: transitive
     description:
@@ -105,6 +106,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.3.5+5"
+=======
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
   crypto:
     dependency: transitive
     description:
@@ -161,6 +164,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "7.0.1"
+<<<<<<< HEAD
   file_selector_linux:
     dependency: transitive
     description:
@@ -193,6 +197,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.9.3+6"
+=======
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
   flutter:
     dependency: "direct main"
     description: flutter
@@ -211,6 +217,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
   flutter_plugin_android_lifecycle:
     dependency: transitive
     description:
@@ -227,6 +234,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.6.1"
+=======
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -277,6 +286,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.1.2"
+<<<<<<< HEAD
   image_picker:
     dependency: "direct main"
     description:
@@ -343,6 +353,10 @@ packages:
     version: "0.2.2"
   intl:
     dependency: "direct main"
+=======
+  intl:
+    dependency: transitive
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
     description:
       name: intl
       sha256: "1ca20c894b1717686a2319b8548763d812bc0aabdac580420a44c5178c57a867"
@@ -353,10 +367,17 @@ packages:
     dependency: transitive
     description:
       name: jni
+<<<<<<< HEAD
       sha256: "19764f78f6b9e0d40f6395b04649d1046eb57f5ccf05afce50cc63e5a82777b0"
       url: "https://pub.dev"
     source: hosted
     version: "1.2.1"
+=======
+      sha256: "2e91e6087291affd10b31b6c872f3e3ac7dc5d93b51b5ba485d930c8f08bde6c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.2"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
   jni_util:
     dependency: transitive
     description:
@@ -461,6 +482,17 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.0"
+<<<<<<< HEAD
+=======
+  nested:
+    dependency: transitive
+    description:
+      name: nested
+      sha256: "03bac4c528c64c95c722ec99280375a6f2fc708eec17c7b3f07253b626cd2a20"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
   objective_c:
     dependency: transitive
     description:
@@ -549,6 +581,17 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.9.1"
+<<<<<<< HEAD
+=======
+  provider:
+    dependency: "direct main"
+    description:
+      name: provider
+      sha256: "4e82183fa20e5ca25703ead7e05de9e4cceed1fbd1eadc1ac3cb6f565a09f272"
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.1.5+1"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
   pub_semver:
     dependency: transitive
     description:
@@ -573,6 +616,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.1"
+<<<<<<< HEAD
   riverpod:
     dependency: transitive
     description:
@@ -581,6 +625,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.6.1"
+=======
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
   shared_preferences:
     dependency: transitive
     description:
@@ -658,6 +704,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.12.2"
+<<<<<<< HEAD
   state_notifier:
     dependency: transitive
     description:
@@ -666,6 +713,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.0"
+=======
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
   storage_client:
     dependency: transitive
     description:
@@ -750,10 +799,17 @@ packages:
     dependency: transitive
     description:
       name: url_launcher_android
+<<<<<<< HEAD
       sha256: b8073b1e5173d63afe1a18985a75896d72f759d3bc1817eb1ae8d26e8527cceb
       url: "https://pub.dev"
     source: hosted
     version: "6.3.35"
+=======
+      sha256: "611e87fb320b70d1dd721dc46af89c98aceccea9b31fde49e084591414e0c610"
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.3.33"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
   url_launcher_ios:
     dependency: transitive
     description:

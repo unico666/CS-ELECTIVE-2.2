@@ -3,6 +3,7 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+<<<<<<< HEAD
   app_links_linux
   file_selector_linux
   url_launcher_linux
@@ -10,6 +11,11 @@ list(APPEND FLUTTER_PLUGIN_LIST
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
   jni
+=======
+)
+
+list(APPEND FLUTTER_FFI_PLUGIN_LIST
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
 )
 
 set(PLUGIN_BUNDLED_LIBRARIES)

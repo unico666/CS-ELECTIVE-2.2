@@ -15,7 +15,11 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                      BuildableName = "brew_bean_app.app"
+=======
+                     BuildableName = "shop_app.app"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
                      BlueprintName = "Runner"
                      ReferencedContainer = "container:Runner.xcodeproj">
                   </BuildableReference>
@@ -33,7 +37,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "brew_bean_app.app"
+=======
+               BuildableName = "shop_app.app"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -49,7 +57,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "brew_bean_app.app"
+=======
+            BuildableName = "shop_app.app"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -84,7 +96,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "brew_bean_app.app"
+=======
+            BuildableName = "shop_app.app"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -101,7 +117,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "brew_bean_app.app"
+=======
+            BuildableName = "shop_app.app"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

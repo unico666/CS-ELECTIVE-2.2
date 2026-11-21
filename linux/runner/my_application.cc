@@ -33,7 +33,11 @@ static void my_application_activate(GApplication* application) {
   // gtk_header_bar_set_show_close_button(header_bar, TRUE);
   // gtk_window_set_titlebar(window, GTK_WIDGET(header_bar));
 
+<<<<<<< HEAD
   gtk_window_set_title(window, "brew_bean_app");
+=======
+  gtk_window_set_title(window, "shop_app");
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
 
   g_autoptr(FlDartProject) project = fl_dart_project_new();
   fl_dart_project_set_dart_entrypoint_arguments(

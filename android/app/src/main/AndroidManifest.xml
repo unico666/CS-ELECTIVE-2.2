@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="brew_bean_app"
+=======
+        android:label="shop_app"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -21,11 +25,14 @@
               android:resource="@style/NormalTheme"
               />
             <intent-filter>
+<<<<<<< HEAD
     <action android:name="android.intent.action.VIEW" />
     <category android:name="android.intent.category.DEFAULT" />
     <category android:name="android.intent.category.BROWSABLE" />
     <data android:scheme="io.supabase.brewbean" android:host="login-callback" />
 </intent-filter>
+=======
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>

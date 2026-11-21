@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"brew_bean_app", origin, size)) {
+=======
+  if (!window.Create(L"shop_app", origin, size)) {
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

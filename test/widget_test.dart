@@ -8,7 +8,11 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
 
+<<<<<<< HEAD
 import 'package:brew_bean_app/main.dart';
+=======
+import 'package:shop_app/main.dart';
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

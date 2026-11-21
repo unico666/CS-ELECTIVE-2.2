@@ -5,7 +5,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.brew_bean_app"
+=======
+    namespace = "com.example.shop_app"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -16,7 +20,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.brew_bean_app"
+=======
+        applicationId = "com.example.shop_app"
+>>>>>>> 88529c99b5a92d68b94c9380b8b4c39e5ee0eb7c
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
